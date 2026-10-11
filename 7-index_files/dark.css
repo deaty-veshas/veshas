@@ -1,0 +1,33 @@
+HTML {
+	HEIGHT: 100%
+}
+BODY {
+	HEIGHT: 100%
+}
+BODY {
+	BACKGROUND: #333333; MARGIN: 0px; FONT: 11px Georgia, "Times New Roman", Times, serif; COLOR: #999999
+}
+A {
+	COLOR: #666666
+}
+A:hover {
+	COLOR: #fff
+}
+#header {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; MARGIN: 0px; PADDING-TOP: 20px
+}
+#header H1 {
+	FONT: 18px Georgia, "Times New Roman", Times, serif
+}
+#container {
+	PADDING-RIGHT: 150px; PADDING-LEFT: 150px; PADDING-BOTTOM: 20px; PADDING-TOP: 20px
+}
+#thumbcontainer {
+	MARGIN-LEFT: 160px
+}
+#colofon {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 20px
+}
+#description {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 160px; PADDING-TOP: 0px
+}
